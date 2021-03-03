@@ -5,9 +5,11 @@ body{
 
 h1{
   font-family: Futura;
+  font-size: 3em;
   width:100%;
   text-align:center;
-  margin-top: 300px;
+  margin-top: 150px;
+  margin-bottom: 50px;
 }
 
 .exp{
