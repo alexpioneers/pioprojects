@@ -1,3 +1,9 @@
 body{
   background-color: #88bef5;
 }
+
+h1{
+  font-family: Futura;
+  width:100%;
+  text-align:center;
+}
